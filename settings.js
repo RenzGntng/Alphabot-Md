@@ -18,8 +18,8 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "YUSUF BOTZ" //namabot kalian
-global.ownername= "YUSUF STORE ×፝֟͜×" //nama kalian
+global.botname = "𝚈𝚄𝚂𝚄𝙵 𝙱𝙾𝚃𝚉" //namabot kalian
+global.ownername= "𝚈𝚄𝚂𝚄𝙵 𝚂𝚃𝙾𝚁𝙴 ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/yusufofficial19" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
@@ -31,8 +31,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6289629015724","6289629015724","6289629015724"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Yusuf Store' //sticker wm ubah
-global.author = 'Di Buat Oleh Yusuf Official' //sticker wm ganti nama kalian
+global.packname = '© 𝚈𝚞𝚜𝚞𝚏 𝚂𝚝𝚘𝚛𝚎' //sticker wm ubah
+global.author = 'Di Buat Oleh 𝚈𝚞𝚜𝚞𝚏 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
