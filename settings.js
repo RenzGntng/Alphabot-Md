@@ -21,7 +21,7 @@ global.autoread = false // auto read pesan / message
 global.botname = "YUSUF BOTZ" //namabot kalian
 global.ownername= "YUSUF STORE ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/yusufofficial19" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "yusufganteng0698@gmail.com" //bebas
 global.region = "Indonesia" //bebas
@@ -42,7 +42,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, Oke Kontol~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
