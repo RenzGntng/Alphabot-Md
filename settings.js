@@ -18,19 +18,19 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "𝚈𝚄𝚂𝚄𝙵 𝙱𝙾𝚃𝚉" //namabot kalian
-global.ownername= "𝚈𝚄𝚂𝚄𝙵 𝚂𝚃𝙾𝚁𝙴" //nama kalian
+global.botname = "HanzXBotz" //namabot kalian
+global.ownername= "HanXHost™" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/yusufofficial19" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "yusufganteng0698@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6289629015724" // nomor wa kalian
-global.ownernomerr = "+6289629015724" //nmr wa kalian
+global.ownernomer = "62895419577775" // nomor wa kalian
+global.ownernomerr = "+62895419577775" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6289629015724","6289629015724","6289629015724"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["62895419577775","62895419577775","62895419577775"] //ganti agar fitur owner bisa di gunakan
 global.packname = '𝚈𝚄𝚂𝚄𝙵 𝙶𝙰𝙽𝚃𝙴𝙽𝙶' //sticker wm ubah
 global.author = 'Di Buat Oleh 𝚈𝚄𝚂𝚄𝙵 𝙶𝙰𝙽𝚃𝙴𝙽𝙶' //sticker wm ganti nama kalian
 global.sessionName = 'session'
