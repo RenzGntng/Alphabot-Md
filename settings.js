@@ -19,20 +19,20 @@ global.autoread = false // auto read pesan / message
 
 // Other
 global.botname = "Skylee Botzz" //namabot kalian
-global.ownername= "Adlan Store" //nama kalian
+global.ownername= "Renz Store" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/yusufofficial19" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "yusufganteng0698@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6289525860893" // nomor wa kalian
-global.ownernomerr = "+6289629015724" //nmr wa kalian
+global.ownernomer = "6283144670363" // nomor wa kalian
+global.ownernomerr = "+6283144670363" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6289525860893","6289525860893","6289525860893"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6289525860893","6285717497745","6285717497745"] //ganti agar fitur owner bisa di gunakan
 global.packname = '𝚈𝚄𝚂𝚄𝙵 𝙶𝙰𝙽𝚃𝙴𝙽𝙶' //sticker wm ubah
-global.author = 'Di Buat Oleh 𝚈𝚄𝚂𝚄𝙵 𝙶𝙰𝙽𝚃𝙴𝙽𝙶' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh RENZ GANTENG' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
